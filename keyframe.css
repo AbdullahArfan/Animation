@@ -1,0 +1,12 @@
+@keyframes move{
+    0% , 100%{
+        translate: 0px;
+        background-color: darkgray;
+    }
+
+    50%{
+        translate: 1000px;
+        background-color: deepskyblue;
+    }
+    
+}
