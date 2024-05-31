@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: cadetblue;
+    width: 300px;
+    aspect-ratio: 297/210;
+}
+
